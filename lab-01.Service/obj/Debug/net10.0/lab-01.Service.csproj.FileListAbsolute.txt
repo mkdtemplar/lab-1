@@ -1,0 +1,12 @@
+/Users/ivanmarkovski/Documents/Integrated Systems/2026/lab-1/lab-01.Service/bin/Debug/net10.0/lab-01.Service.deps.json
+/Users/ivanmarkovski/Documents/Integrated Systems/2026/lab-1/lab-01.Service/bin/Debug/net10.0/lab-01.Service.dll
+/Users/ivanmarkovski/Documents/Integrated Systems/2026/lab-1/lab-01.Service/bin/Debug/net10.0/lab-01.Service.pdb
+/Users/ivanmarkovski/Documents/Integrated Systems/2026/lab-1/lab-01.Service/obj/Debug/net10.0/lab-01.Service.csproj.AssemblyReference.cache
+/Users/ivanmarkovski/Documents/Integrated Systems/2026/lab-1/lab-01.Service/obj/Debug/net10.0/lab-01.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanmarkovski/Documents/Integrated Systems/2026/lab-1/lab-01.Service/obj/Debug/net10.0/lab-01.Service.AssemblyInfoInputs.cache
+/Users/ivanmarkovski/Documents/Integrated Systems/2026/lab-1/lab-01.Service/obj/Debug/net10.0/lab-01.Service.AssemblyInfo.cs
+/Users/ivanmarkovski/Documents/Integrated Systems/2026/lab-1/lab-01.Service/obj/Debug/net10.0/lab-01.Service.csproj.CoreCompileInputs.cache
+/Users/ivanmarkovski/Documents/Integrated Systems/2026/lab-1/lab-01.Service/obj/Debug/net10.0/lab-01.Service.dll
+/Users/ivanmarkovski/Documents/Integrated Systems/2026/lab-1/lab-01.Service/obj/Debug/net10.0/refint/lab-01.Service.dll
+/Users/ivanmarkovski/Documents/Integrated Systems/2026/lab-1/lab-01.Service/obj/Debug/net10.0/lab-01.Service.pdb
+/Users/ivanmarkovski/Documents/Integrated Systems/2026/lab-1/lab-01.Service/obj/Debug/net10.0/ref/lab-01.Service.dll
